@@ -4,40 +4,40 @@
 
 Soal latihan 1 :
 
-1.Tampilkan n bilangan acak yang lebih kecil dari 0,5.
+1. Tampilkan N bilangan acak yang lebih kecil dari 0,5.
 
-2.nilai n diisi pada saat runtime.
+2. Nilai N diisi pada saat runtime.
 
-3.Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
+3. Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
 
-4.Gunakan fungsi random() yang dapat diimport terlebih dahulu
+4. Gunakan fungsi random() yang dapat diimport terlebih dahulu
 
 Algoritma latihan1 :
 
-Menampilkan n bilangan acak yang lebih kecil dari 0,5, nilai n diisi 
+Menampilkan N bilangan acak yang lebih kecil dari 0,5, nilai n diisi 
 pada saat runtime.
 
-1.Memasukan/ import fungsi RANDOM terlebih dahulu
+1. Memasukan/ import fungsi RANDOM terlebih dahulu
 
-2.Deklarasi integer , masukkan jumlah n :
+2. Deklarasi integer , masukkan jumlah n :
 
-3.Memasukan deskripsi kombinasi for untuk menyelesaikannya.
+3. Memasukan deskripsi kombinasi for untuk menyelesaikannya.
 
-4.Memasukan nilai jumlah (n) : 5
+4. Memasukan nilai jumlah (n) : 5
 
-5.Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5.
+5. Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5.
 
-6.Selesai
+6. Selesai
 
-syntax latihan 1 sebagai berikut :
+Syntax Latihan1 :
 
 # ![GitHub Logo](1a.JPG) <h2>
 
-hasil out put latihan 1 sebagai berikut :
+Hasil output Latihan1:
 
 # ![GitHub Logo](2a.JPG) <h2>
 
-**Soal latihan 2 :**
+**Soal Latihan 2 :**
 
 Membuat program untuk menampilkan bilangan terbesar dari n buah data 
 yang diinputkan.Masukkan angka 0 untuk berhenti.
@@ -47,36 +47,36 @@ Algoritma latihan 2:
 Membuat program untuk menampilkan bilangan terbesar dari n buah data 
 yang diinputkan.Masukkan angka 0 untuk berhenti
 
-1.Mulai
+1. Mulai
 
-2.Mencetak "latihan 2"
+2. Mencetak "latihan 2"
 
-3.Mencetak "menampilkan bilangan, berhenti ketika bilangan 0, 
+3. Mencetak "menampilkan bilangan, berhenti ketika bilangan 0, 
 menampilkan bilangan terbesar"
 
-4.integer max = 0
+4. Integer max = 0
 
-5.Menggunakan fungsi perulangan while true, hingga menampilkan 
+5. Menggunakan fungsi perulangan while true, hingga menampilkan 
 perulangan sampai batas tertentu.
 
-6.Memasukan bilangan integer pada "a"
+6. Memasukan bilangan integer pada "a"
 
-7.Menggunakan fungsi if jika max kurang dari nilai a, maka max sama 
+7. Menggunakan fungsi if jika max kurang dari nilai a, maka max sama 
 dengan a
 
-8.Mengunakan fungsi if jika nilai a adalah 0 maka fungsi break artinya 
+8. Mengunakan fungsi if jika nilai a adalah 0 maka fungsi break artinya 
 perulangan berhenti jika menulis nilai 0.
 
-9.Mencetak nilai paling terbesarv setelah break, sehingga menampilkan 
+9. Mencetak nilai paling terbesarv setelah break, sehingga menampilkan 
 nilai terbesar diantara bilangan tersebut dalam perulangan.
 
-10.selesai
+10. Selesai
 
-syntax latihan 2 sebagai berikut :
+Syntax Latihan2 :
 
 # ![GitHub Logo](3a.JPG) <h2>
 
-hasil out put latihan 2 ketika di runtime sebagai berikut :
+Hasil output latihan 2 ketika di runfile :
 
 # ![Github Logo](4a.JPG) <h2>
 
@@ -100,48 +100,49 @@ Hitung total keuntungan selama 8 bulan berjalan usahanya.
 
 ALGORITMA menghitung keuntungan selama 8 bulan berjalannya usaha.
 
-1.Mulai
+1. Mulai
 
-2.Mencetak latihan1
+2. Mencetak latihan1
 
-3.Mencetak "Program menghitung laba dengan modal awal 100 juta"
+3. Mencetak "Program menghitung laba dengan modal awal 100 juta"
 
-4.Membuat Note
+4. Membuat Note
 
-5.Mencetak Bulan pertama dan kedua = 0%
+5. Mencetak Bulan pertama dan kedua = 0%
 
-6.Mencetak bulan ke 3 = 1%
+6. Mencetak bulan ke 3 = 1%
 
-7.Mencetak bulan ke 5 = 5%
+7. Mencetak bulan ke 5 = 5%
 
-8.Mencetak bulan ke 8 = 2%
+8. Mencetak bulan ke 8 = 2%
 
-9.integer a = 100.000.000( modal awal)
+9. Integer a = 100.000.000( modal awal)
 
-10.Menggunakan fungsi looping for pada nilai x 1-9 untuk menampilkan 
+10. Menggunakan fungsi looping for pada nilai x 1-9 untuk menampilkan 
 bulan 1 sampai bulan 8.
 
-11.Menggunakan fungsi if, untuk menghitung laba bulan 1 sampai 8
+11. Menggunakan fungsi if, untuk menghitung laba bulan 1 sampai 8
 
-12.bulan pertama dan kedua laba adalah 0
+12. Bulan pertama dan kedua laba adalah 0
 
-13.bulan ke 3 dan ke 4 mendapat laba 1% sehingga modal di kali 1% = 
+13. Bulan ke 3 dan ke 4 mendapat laba 1% sehingga modal di kali 1% = 
 keuntungan
 
-14.bulan ke 5 mendapatkan laba 5%, sehingga modal dikali 5% = keuntungan
+14. Bulan ke 5 mendapatkan laba 5%, sehingga modal dikali 5% = 
+keuntungan
 
-15.Bulan ke 8 mmendapatkan laba 2% sehingga keuntungan menurun dari 
+15. Bulan ke 8 mmendapatkan laba 2% sehingga keuntungan menurun dari 
 bulan sebelumnya, modal dikali 2% = keuntungan.
 
-16.Menghitung jumlah total laba dengan menjumlah keuntungan dari bulan 
+16. Menghitung jumlah total laba dengan menjumlah keuntungan dari bulan 
 ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 
-17.Selesai
+17. Selesai
 
-syntax program1 sebagai berikut :
+Syntax Program1 :
 
 # ![GitHub Logo](5.JPG) <h2>
 
-hasil out put program1 ketika runtime adalah sebagai berikut :
+Hasil output Program1 ketika runfile :
 
 # ![GitHub Logo](6.JPG) <h2>
